@@ -12,6 +12,8 @@
     Decrypted Message Output
 
 
-#Installation on linux
+# Installation on linux
 
-     git clone
+     git clone https://github.com/KJPHOENIX/Encrypt-Decrypt-python.git
+     cd Encrypt-Decrypt-python
+     python3 encdec.py
