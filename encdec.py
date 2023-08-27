@@ -1,9 +1,17 @@
 import time
 
-print("ENCRYPTION AND DECRYPTION\n                  -by NIX")
+
 
 time.sleep(2)
-
+print("""
+ _  __   _       ____  _   _  ___  _____ _   _ _____  __
+| |/ /  | |     |  _ \| | | |/ _ \| ____| \ | |_ _\ \/ /
+| ' /_  | |_____| |_) | |_| | | | |  _| |  \| || | \  / 
+| . \ |_| |_____|  __/|  _  | |_| | |___| |\  || | /  \ 
+|_|\_\___/      |_|   |_| |_|\___/|_____|_| \_|___/_/\_\
+                                                        
+""")
+print("\n\nENCRYPTION AND DECRYPTION\n                  -by NIX")
 print("\n\n1.Encrypt text\n2.Decrypt text")
 a = int(input("\nEnter your option 1 or 2 :"))
 
